@@ -1,5 +1,5 @@
 # What's up?
-I'm Victor, a programmer who likes **Python** and **CS:GO**.
+I'm Victor, a programmer who likes **Python** and **CS:GO**. Also most of my repositories are broken/useless (for now)
 
 # What am I working on?
 I am currently working on a flask website called **InfiniMC**, you can see it's minecraft related, once it goes public I will actually provide a description.
