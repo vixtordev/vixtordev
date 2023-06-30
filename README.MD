@@ -8,6 +8,6 @@ I am currently working on a flask website called **InfiniMC**, you can see it's 
 # Contacts
 
 ```css
-Discord: vixtor#5857
+Discord: vixtordev
 Email: explodingvic@gmail.com (do not try contacting me there I rarely check it)
 ```
